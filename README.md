@@ -4,7 +4,7 @@ IMDb Top 250 Movies Web Scraping Project
 
 Overview
 
-This project is designed to scrape data from IMDb's Top 250 movies list, extracting valuable information about each movie, including titles, ratings, release years, and more. The scraped data can be used for analysis, visualization, or as a foundation for further projects.
+This project is designed to scrape data from IMDb's Top 250 movies list, extracting valuable information about each movie, including titles, ratings, release years. The scraped data can be used for analysis, visualization, or as a foundation for further projects.
 
 Features
 
